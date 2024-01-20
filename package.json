@@ -1,0 +1,13 @@
+{
+    "name": "desafio3",
+    "version": "1.0.0",
+    "description": "",
+    "main": "./src/express.js",
+    "type": "module",
+    "scripts": {
+      "dev": "node --watch ."
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+  }
